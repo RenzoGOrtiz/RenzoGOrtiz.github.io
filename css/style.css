@@ -635,6 +635,8 @@ hr {
     width: 100%;
     height: 100%;
     background-image: url("../Images/moonfalldown.png");
+    background-repeat: no-repeat;
+    background-position: center;
 
 }
 .breadcrumb-bg::after {
